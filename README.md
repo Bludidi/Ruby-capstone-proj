@@ -70,11 +70,11 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this [repository](https://github.com/Ngufor-emmanuella/Ruby-capstone-proj) to your desired folder:
+Clone this [repository](https://github.com/Bludidi/Ruby-capstone-proj.git) to your desired folder:
 
 ```sh
   
-  git clone https://github.com/Ngufor-emmanuella/Ruby-capstone-proj.git
+  git clone https://github.com/Bludidi/Ruby-capstone-proj.git
   cd Ruby-capstone-proj
 ```
 
@@ -107,17 +107,16 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ngufor-emmanuella**
-
-- GitHub: [@Ngufor-emmanuella](https://github.com/Ngufor-emmanuella)
-- Twitter: [@Ngufor-emmanuella](https://twitter.com/Ngufor-emmanuella)
-- LinkedIn: [@Ngufor-emmanuella](https://www.linkedin.com/in/Ngufor-emmanuella)
-
 👤 **Brian Buntu Ludidi**
 
 - GitHub: [@Bludidi](https://github.com/Bludidi)
 - Twitter: [@BB_Ludidi](https://twitter.com/bb_ludidi)
 - LinkedIn: [Brian Ludidi](https://www.linkedin.com/in/brian-ludidi/)
+👤 **Ngufor-emmanuella**
+
+- GitHub: [@Ngufor-emmanuella](https://github.com/Ngufor-emmanuella)
+- Twitter: [@Ngufor-emmanuella](https://twitter.com/Ngufor-emmanuella)
+- LinkedIn: [@Ngufor-emmanuella](https://www.linkedin.com/in/Ngufor-emmanuella)
 
 👤 **NEJJARI ABDELHAFID**
 
