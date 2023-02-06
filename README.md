@@ -1,8 +1,3 @@
-<div align="center">
-  <h3><b>Ruby Capstone Project: Catalog of my Things README</b></h3>
-
-</div>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -25,9 +20,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 CATALOG_OF_THINGS <a name="about-project"></a>
+# 📖 CATALOG_OF_MY_THINGS <a name="about-project"></a>
 
-**Catalog of things ** is a console application that will help you to keep a record of different types of things you own: books, music albums, movies, and games.
+**Catalog of my things ** is a console application that will help you to keep a record of different types of things you own: books, music albums, movies, and games.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -112,6 +107,7 @@ To run tests, run the following command:
 - GitHub: [@Bludidi](https://github.com/Bludidi)
 - Twitter: [@BB_Ludidi](https://twitter.com/bb_ludidi)
 - LinkedIn: [Brian Ludidi](https://www.linkedin.com/in/brian-ludidi/)
+
 👤 **Ngufor-emmanuella**
 
 - GitHub: [@Ngufor-emmanuella](https://github.com/Ngufor-emmanuella)
